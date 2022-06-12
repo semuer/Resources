@@ -1080,10 +1080,17 @@ return {
     [1134] = {id=1134,en="Get Over Here!",ja="ロマンシング サ・ソリさん"},
     [1135] = {id=1135,en="Bond Renewer",ja="再生を見届けし者"},
     [1136] = {id=1136,en="Treasure of Olduum",ja="オルドゥームの秘宝"},
+    [1137] = {id=1137,en="Beloved by the Sea God",ja="アプクーップアプカリッチョ"},
+    [1138] = {id=1138,en="Destiny Master",ja="ディスティニーシショー"},
+    [1139] = {id=1139,en="Tireless Tracker",ja="葉団扇に乗せて歩み続ける者"},
+    [1140] = {id=1140,en="Galkan Hazard",ja="ガルカンハザード"},
+    [1141] = {id=1141,en="Bearer of Secrets",ja="秘密を託されし者"},
+    [1142] = {id=1142,en="Long Live Mumor",ja="ミュモルNo.1"},
+    [1143] = {id=1143,en="Parter of the Veil",ja="悪魔を見抜きし者"},
 }, {"id", "en", "ja"}
 
 --[[
-Copyright © 2013-2021, Windower
+Copyright © 2013-2022, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

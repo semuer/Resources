@@ -14,10 +14,15 @@ return {
     [10] = {id=10,en="Wardrobe 2",access="Everywhere",command="wardrobe2",equippable=true},
     [11] = {id=11,en="Wardrobe 3",access="Everywhere",command="wardrobe3",equippable=true},
     [12] = {id=12,en="Wardrobe 4",access="Everywhere",command="wardrobe4",equippable=true},
+    [13] = {id=13,en="Wardrobe 5",access="Everywhere",command="wardrobe5",equippable=true},
+    [14] = {id=14,en="Wardrobe 6",access="Everywhere",command="wardrobe6",equippable=true},
+    [15] = {id=15,en="Wardrobe 7",access="Everywhere",command="wardrobe7",equippable=true},
+    [16] = {id=16,en="Wardrobe 8",access="Everywhere",command="wardrobe8",equippable=true},
+    [17] = {id=17,en="Recycle",access="Everywhere",command="recycle",equippable=false},
 }, {"id", "en", "access", "command", "equippable"}
 
 --[[
-Copyright © 2013-2021, Windower
+Copyright © 2013-2022, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
